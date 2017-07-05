@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations</h2>
-                <p>Hello World</p>
+                <p>Hello World Hello AWS</p>
                 <p>This is a Blue-Green-Deployment</p>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
